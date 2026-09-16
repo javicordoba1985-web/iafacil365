@@ -1,0 +1,16 @@
+IA FÁCIL — WEB SEO
+
+Contenido:
+- index.html: página principal
+- articulos/: 10 artículos SEO
+- sobre.html: página de confianza
+- privacidad.html: base de privacidad (debe adaptarse a los servicios reales)
+- robots.txt
+- sitemap-template.xml
+
+PUBLICACIÓN
+1. Sube todo manteniendo las carpetas.
+2. Cuando conozcas el dominio final, sustituye https://TU-DOMINIO/ en sitemap-template.xml y renómbralo a sitemap.xml.
+3. Añade la URL final del sitemap al robots.txt.
+4. No actives bloques de AdSense hasta tener el sitio aprobado y el consentimiento/cookies configurados según corresponda.
+5. Revisa enlaces y contenido en móvil tras publicar.
